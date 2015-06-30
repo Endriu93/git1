@@ -8,6 +8,7 @@ int main()
 	std::cout<<"trzeci commit"<<std::endl;
 	std::cout<<"commit 4 local"<<std::endl;	
 	std::cout<<"commit 5 local"<<std::endl;	
+	std::cout<<"commit 5 local"<<std::endl;	
 	
 
 
