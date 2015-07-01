@@ -14,6 +14,7 @@ int main()
 	std::cout<<"commit 5 local"<<std::endl;	
 	
 >>>>>>> master
+	std::cout<<"old-state 7"<<std::endl;
 
 
 
