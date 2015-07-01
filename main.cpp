@@ -9,7 +9,7 @@ int main()
 	std::cout<<"commit 4 local"<<std::endl;	
 	std::cout<<"commit 5 local"<<std::endl;	
 	std::cout<<"commit 5 local"<<std::endl;	
-	
+		std::cout<<"commit 6 local"<<std::endl;	
 
 
 
